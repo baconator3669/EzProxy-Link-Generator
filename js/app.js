@@ -1,6 +1,6 @@
 $(document).ready(function () {
     //NOTE Insert your institution's URL here. Usually something like https://ezproxy.someuniv.com:443/
-    var ezProxy = "https://**INSERT_YOUR_EZPROXY_URL_HERE**/login?URL=";
+    var ezProxy = "https://funny.akaris.pro:2606/login?URL=";
     var doi = "http://dx.doi.org/";
 
     //SECTION  generate urls
